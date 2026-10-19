@@ -6,6 +6,10 @@ transactions, visualizes spending patterns, calculates savings, and
 identifies potentially unusual expenses using statistical and machine 
 learning techniques.
 
+## Dashboard Preview
+
+![Personal Finance Advisor Dashboard](data-science/reports/figures/dashboard.png)
+
 ## Overview
 
 Managing personal finances requires understanding income, expenses, 
