@@ -8,7 +8,7 @@ learning techniques.
 
 ## Dashboard Preview
 
-![Personal Finance Advisor Dashboard](data-science/reports/figures/monthly_income_vs_expenses.png)
+![Personal Finance Advisor Dashboard](data-science/reports/figures/dashboard.png)
 
 ## Overview
 
@@ -83,6 +83,17 @@ The Streamlit dashboard provides:
 | Streamlit | Interactive web dashboard |
 | Scikit-learn | Isolation Forest and model evaluation |
 | Git | Version control |
+
+
+## Screenshots
+
+### Anomaly Detection
+![Anomaly Detection](data-science/reports/figures/anomaly-detection.png)
+
+### Model Validation
+![Model Validation](data-science/reports/figures/model-validation.png)
+
+
 
 ## Project Structure
 
