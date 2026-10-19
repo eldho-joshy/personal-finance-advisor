@@ -1,0 +1,454 @@
+transaction_id,date,type,category,amount,payment_method,description,is_injected_anomaly,month,year,month_number
+TXN00001,2025-10-01,Income,Income,47379.94,Bank Transfer,Monthly income,,2025-10,2025,10
+TXN00005,2025-10-01,Expense,Food,137.67,Cash,Food expense,False,2025-10,2025,10
+TXN00006,2025-10-02,Expense,Personal Care,493.03,Credit Card,Personal Care expense,False,2025-10,2025,10
+TXN00007,2025-10-03,Expense,Transport,124.16,Credit Card,Transport expense,False,2025-10,2025,10
+TXN00008,2025-10-04,Expense,Personal Care,511.38,Debit Card,Personal Care expense,False,2025-10,2025,10
+TXN00002,2025-10-05,Expense,Rent,10417.69,UPI,Monthly rent,False,2025-10,2025,10
+TXN00003,2025-10-05,Expense,Bills,1546.09,UPI,Monthly bills,False,2025-10,2025,10
+TXN00004,2025-10-05,Expense,Subscriptions,529.3,UPI,Monthly subscriptions,False,2025-10,2025,10
+TXN00009,2025-10-05,Expense,Food,321.83,Cash,Food expense,False,2025-10,2025,10
+TXN00010,2025-10-05,Expense,Healthcare,2120.79,Debit Card,Healthcare expense,False,2025-10,2025,10
+TXN00011,2025-10-06,Expense,Shopping,1437.13,Cash,Shopping expense,False,2025-10,2025,10
+TXN00012,2025-10-07,Expense,Transport,228.62,Debit Card,Transport expense,False,2025-10,2025,10
+TXN00013,2025-10-07,Expense,Food,411.35,UPI,Food expense,False,2025-10,2025,10
+TXN00014,2025-10-08,Expense,Entertainment,178.47,UPI,Entertainment expense,False,2025-10,2025,10
+TXN00015,2025-10-09,Expense,Shopping,1417.14,Debit Card,Shopping expense,False,2025-10,2025,10
+TXN00016,2025-10-10,Expense,Personal Care,285.23,Debit Card,Personal Care expense,False,2025-10,2025,10
+TXN00017,2025-10-12,Expense,Food,190.76,Credit Card,Food expense,False,2025-10,2025,10
+TXN00018,2025-10-13,Expense,Personal Care,516.34,UPI,Personal Care expense,False,2025-10,2025,10
+TXN00019,2025-10-14,Expense,Entertainment,690.97,UPI,Entertainment expense,False,2025-10,2025,10
+TXN00020,2025-10-15,Expense,Personal Care,244.16,Debit Card,Personal Care expense,False,2025-10,2025,10
+TXN00021,2025-10-18,Expense,Personal Care,452.58,Debit Card,Personal Care expense,False,2025-10,2025,10
+TXN00022,2025-10-19,Expense,Personal Care,384.37,Cash,Personal Care expense,False,2025-10,2025,10
+TXN00023,2025-10-21,Expense,Food,326.09,UPI,Food expense,False,2025-10,2025,10
+TXN00024,2025-10-22,Expense,Transport,160.72,Debit Card,Transport expense,False,2025-10,2025,10
+TXN00025,2025-10-23,Expense,Food,112.33,Cash,Food expense,False,2025-10,2025,10
+TXN00026,2025-10-24,Expense,Food,263.41,Credit Card,Food expense,False,2025-10,2025,10
+TXN00027,2025-10-25,Expense,Shopping,387.45,Credit Card,Shopping expense,False,2025-10,2025,10
+TXN00028,2025-10-26,Expense,Shopping,1292.87,Cash,Shopping expense,False,2025-10,2025,10
+TXN00029,2025-10-27,Expense,Shopping,1296.47,Debit Card,Shopping expense,False,2025-10,2025,10
+TXN00030,2025-10-28,Expense,Transport,83.39,Debit Card,Transport expense,False,2025-10,2025,10
+TXN00031,2025-10-28,Expense,Food,109.08,Cash,Food expense,False,2025-10,2025,10
+TXN00032,2025-10-28,Expense,Education,1528.01,Cash,Education expense,False,2025-10,2025,10
+TXN00033,2025-10-29,Expense,Entertainment,254.83,Credit Card,Entertainment expense,False,2025-10,2025,10
+TXN00034,2025-10-31,Expense,Shopping,871.53,Cash,Shopping expense,False,2025-10,2025,10
+TXN00035,2025-11-01,Income,Income,25875.38,Bank Transfer,Monthly income,,2025-11,2025,11
+TXN00039,2025-11-02,Expense,Shopping,1349.56,UPI,Shopping expense,False,2025-11,2025,11
+TXN00040,2025-11-02,Expense,Transport,103.17,UPI,Transport expense,False,2025-11,2025,11
+TXN00041,2025-11-03,Expense,Shopping,1375.34,Credit Card,Shopping expense,False,2025-11,2025,11
+TXN00042,2025-11-04,Expense,Shopping,444.59,UPI,Shopping expense,False,2025-11,2025,11
+TXN00036,2025-11-05,Expense,Rent,9411.98,UPI,Monthly rent,False,2025-11,2025,11
+TXN00037,2025-11-05,Expense,Bills,1415.08,UPI,Monthly bills,False,2025-11,2025,11
+TXN00038,2025-11-05,Expense,Subscriptions,143.82,UPI,Monthly subscriptions,False,2025-11,2025,11
+TXN00043,2025-11-05,Expense,Transport,90.47,Debit Card,Transport expense,False,2025-11,2025,11
+TXN00044,2025-11-06,Expense,Transport,85.35,Credit Card,Transport expense,False,2025-11,2025,11
+TXN00045,2025-11-07,Expense,Entertainment,617.65,Credit Card,Entertainment expense,False,2025-11,2025,11
+TXN00046,2025-11-08,Expense,Transport,166.82,Debit Card,Transport expense,False,2025-11,2025,11
+TXN00047,2025-11-11,Expense,Transport,78.9,Cash,Transport expense,False,2025-11,2025,11
+TXN00048,2025-11-11,Expense,Healthcare,7964.1,Credit Card,Healthcare expense,True,2025-11,2025,11
+TXN00049,2025-11-13,Expense,Personal Care,273.43,Credit Card,Personal Care expense,False,2025-11,2025,11
+TXN00050,2025-11-15,Expense,Shopping,1474.1,Cash,Shopping expense,False,2025-11,2025,11
+TXN00051,2025-11-15,Expense,Education,1127.32,Credit Card,Education expense,False,2025-11,2025,11
+TXN00052,2025-11-16,Expense,Food,475.13,UPI,Food expense,False,2025-11,2025,11
+TXN00053,2025-11-17,Expense,Food,206.79,Cash,Food expense,False,2025-11,2025,11
+TXN00054,2025-11-18,Expense,Transport,137.78,Credit Card,Transport expense,False,2025-11,2025,11
+TXN00055,2025-11-18,Expense,Education,1704.7,Credit Card,Education expense,False,2025-11,2025,11
+TXN00056,2025-11-19,Expense,Entertainment,241.16,Credit Card,Entertainment expense,False,2025-11,2025,11
+TXN00057,2025-11-19,Expense,Personal Care,377.02,Debit Card,Personal Care expense,False,2025-11,2025,11
+TXN00058,2025-11-19,Expense,Education,1442.81,UPI,Education expense,False,2025-11,2025,11
+TXN00059,2025-11-20,Expense,Personal Care,429.71,Debit Card,Personal Care expense,False,2025-11,2025,11
+TXN00060,2025-11-21,Expense,Shopping,461.61,UPI,Shopping expense,False,2025-11,2025,11
+TXN00061,2025-11-22,Expense,Shopping,356.12,Credit Card,Shopping expense,False,2025-11,2025,11
+TXN00062,2025-11-23,Expense,Transport,1079.8,Credit Card,Transport expense,True,2025-11,2025,11
+TXN00063,2025-11-24,Expense,Food,481.16,Debit Card,Food expense,False,2025-11,2025,11
+TXN00064,2025-11-25,Expense,Personal Care,227.98,Cash,Personal Care expense,False,2025-11,2025,11
+TXN00065,2025-11-26,Expense,Education,1039.67,Debit Card,Education expense,False,2025-11,2025,11
+TXN00066,2025-11-27,Expense,Personal Care,545.84,Cash,Personal Care expense,False,2025-11,2025,11
+TXN00067,2025-11-27,Expense,Transport,199.72,Debit Card,Transport expense,False,2025-11,2025,11
+TXN00068,2025-11-28,Expense,Transport,153.77,UPI,Transport expense,False,2025-11,2025,11
+TXN00069,2025-11-28,Expense,Personal Care,257.96,Debit Card,Personal Care expense,False,2025-11,2025,11
+TXN00070,2025-11-29,Expense,Entertainment,392.88,UPI,Entertainment expense,False,2025-11,2025,11
+TXN00071,2025-11-29,Expense,Education,1569.54,Debit Card,Education expense,False,2025-11,2025,11
+TXN00072,2025-11-30,Expense,Shopping,1705.22,Cash,Shopping expense,False,2025-11,2025,11
+TXN00073,2025-12-01,Income,Income,34626.03,Bank Transfer,Monthly income,,2025-12,2025,12
+TXN00077,2025-12-02,Expense,Food,178.57,Cash,Food expense,False,2025-12,2025,12
+TXN00078,2025-12-02,Expense,Personal Care,255.16,UPI,Personal Care expense,False,2025-12,2025,12
+TXN00079,2025-12-03,Expense,Food,300.3,Credit Card,Food expense,False,2025-12,2025,12
+TXN00080,2025-12-03,Expense,Food,157.56,Cash,Food expense,False,2025-12,2025,12
+TXN00081,2025-12-03,Expense,Education,690.42,Credit Card,Education expense,False,2025-12,2025,12
+TXN00074,2025-12-05,Expense,Rent,5859.31,UPI,Monthly rent,False,2025-12,2025,12
+TXN00075,2025-12-05,Expense,Bills,2212.89,UPI,Monthly bills,False,2025-12,2025,12
+TXN00076,2025-12-05,Expense,Subscriptions,176.64,UPI,Monthly subscriptions,False,2025-12,2025,12
+TXN00082,2025-12-06,Expense,Personal Care,390.56,Cash,Personal Care expense,False,2025-12,2025,12
+TXN00083,2025-12-07,Expense,Shopping,1373.11,Credit Card,Shopping expense,False,2025-12,2025,12
+TXN00084,2025-12-07,Expense,Transport,197.8,Cash,Transport expense,False,2025-12,2025,12
+TXN00085,2025-12-09,Expense,Shopping,751.42,Credit Card,Shopping expense,False,2025-12,2025,12
+TXN00086,2025-12-10,Expense,Shopping,1733.43,Credit Card,Shopping expense,False,2025-12,2025,12
+TXN00087,2025-12-11,Expense,Personal Care,112.43,Credit Card,Personal Care expense,False,2025-12,2025,12
+TXN00088,2025-12-11,Expense,Food,322.08,Cash,Food expense,False,2025-12,2025,12
+TXN00089,2025-12-13,Expense,Transport,243.25,UPI,Transport expense,False,2025-12,2025,12
+TXN00090,2025-12-14,Expense,Shopping,1506.54,UPI,Shopping expense,False,2025-12,2025,12
+TXN00091,2025-12-14,Expense,Personal Care,333.69,Cash,Personal Care expense,False,2025-12,2025,12
+TXN00092,2025-12-15,Expense,Education,1710.03,UPI,Education expense,False,2025-12,2025,12
+TXN00093,2025-12-16,Expense,Food,193.06,UPI,Food expense,False,2025-12,2025,12
+TXN00094,2025-12-17,Expense,Transport,223.55,UPI,Transport expense,False,2025-12,2025,12
+TXN00095,2025-12-18,Expense,Food,249.67,Debit Card,Food expense,False,2025-12,2025,12
+TXN00096,2025-12-19,Expense,Food,447.0,Cash,Food expense,False,2025-12,2025,12
+TXN00097,2025-12-20,Expense,Shopping,654.99,Credit Card,Shopping expense,False,2025-12,2025,12
+TXN00098,2025-12-21,Expense,Transport,71.06,Cash,Transport expense,False,2025-12,2025,12
+TXN00099,2025-12-21,Expense,Personal Care,133.28,Credit Card,Personal Care expense,False,2025-12,2025,12
+TXN00100,2025-12-23,Expense,Transport,78.77,Credit Card,Transport expense,False,2025-12,2025,12
+TXN00101,2025-12-25,Expense,Healthcare,346.53,Cash,Healthcare expense,False,2025-12,2025,12
+TXN00102,2025-12-28,Expense,Food,257.45,UPI,Food expense,False,2025-12,2025,12
+TXN00103,2025-12-29,Expense,Entertainment,718.75,Debit Card,Entertainment expense,False,2025-12,2025,12
+TXN00104,2025-12-31,Expense,Entertainment,312.1,Credit Card,Entertainment expense,False,2025-12,2025,12
+TXN00105,2026-01-01,Income,Income,32812.38,Bank Transfer,Monthly income,,2026-01,2026,1
+TXN00109,2026-01-01,Expense,Entertainment,216.09,UPI,Entertainment expense,False,2026-01,2026,1
+TXN00110,2026-01-04,Expense,Food,491.83,UPI,Food expense,False,2026-01,2026,1
+TXN00111,2026-01-04,Expense,Entertainment,671.32,Debit Card,Entertainment expense,False,2026-01,2026,1
+TXN00106,2026-01-05,Expense,Rent,7913.84,UPI,Monthly rent,False,2026-01,2026,1
+TXN00107,2026-01-05,Expense,Bills,883.73,UPI,Monthly bills,False,2026-01,2026,1
+TXN00108,2026-01-05,Expense,Subscriptions,286.81,UPI,Monthly subscriptions,False,2026-01,2026,1
+TXN00112,2026-01-05,Expense,Food,411.6,Cash,Food expense,False,2026-01,2026,1
+TXN00113,2026-01-06,Expense,Transport,152.84,Cash,Transport expense,False,2026-01,2026,1
+TXN00114,2026-01-07,Expense,Personal Care,292.54,Credit Card,Personal Care expense,False,2026-01,2026,1
+TXN00115,2026-01-08,Expense,Transport,77.95,Credit Card,Transport expense,False,2026-01,2026,1
+TXN00116,2026-01-09,Expense,Transport,96.51,Debit Card,Transport expense,False,2026-01,2026,1
+TXN00117,2026-01-10,Expense,Entertainment,362.87,Cash,Entertainment expense,False,2026-01,2026,1
+TXN00118,2026-01-11,Expense,Food,218.75,Credit Card,Food expense,False,2026-01,2026,1
+TXN00119,2026-01-12,Expense,Personal Care,340.46,UPI,Personal Care expense,False,2026-01,2026,1
+TXN00120,2026-01-12,Expense,Food,231.34,UPI,Food expense,False,2026-01,2026,1
+TXN00121,2026-01-13,Expense,Food,361.03,Cash,Food expense,False,2026-01,2026,1
+TXN00122,2026-01-13,Expense,Transport,210.88,Credit Card,Transport expense,False,2026-01,2026,1
+TXN00123,2026-01-14,Expense,Entertainment,337.3,Credit Card,Entertainment expense,False,2026-01,2026,1
+TXN00124,2026-01-15,Expense,Transport,188.96,Credit Card,Transport expense,False,2026-01,2026,1
+TXN00125,2026-01-20,Expense,Food,337.47,Cash,Food expense,False,2026-01,2026,1
+TXN00126,2026-01-20,Expense,Entertainment,658.71,UPI,Entertainment expense,False,2026-01,2026,1
+TXN00127,2026-01-21,Expense,Entertainment,314.7,Debit Card,Entertainment expense,False,2026-01,2026,1
+TXN00128,2026-01-21,Expense,Entertainment,533.55,Debit Card,Entertainment expense,False,2026-01,2026,1
+TXN00129,2026-01-21,Expense,Healthcare,1655.56,Credit Card,Healthcare expense,False,2026-01,2026,1
+TXN00130,2026-01-23,Expense,Transport,143.2,Cash,Transport expense,False,2026-01,2026,1
+TXN00131,2026-01-24,Expense,Shopping,1498.87,Cash,Shopping expense,False,2026-01,2026,1
+TXN00132,2026-01-25,Expense,Food,472.49,UPI,Food expense,False,2026-01,2026,1
+TXN00133,2026-01-25,Expense,Healthcare,557.63,UPI,Healthcare expense,False,2026-01,2026,1
+TXN00134,2026-01-27,Expense,Food,2048.65,Credit Card,Food expense,True,2026-01,2026,1
+TXN00135,2026-01-28,Expense,Personal Care,549.18,Cash,Personal Care expense,False,2026-01,2026,1
+TXN00136,2026-01-29,Expense,Food,245.68,UPI,Food expense,False,2026-01,2026,1
+TXN00137,2026-01-31,Expense,Transport,137.58,UPI,Transport expense,False,2026-01,2026,1
+TXN00138,2026-01-31,Expense,Personal Care,291.66,UPI,Personal Care expense,False,2026-01,2026,1
+TXN00139,2026-02-01,Income,Income,50776.49,Bank Transfer,Monthly income,,2026-02,2026,2
+TXN00143,2026-02-01,Expense,Transport,125.27,Credit Card,Transport expense,False,2026-02,2026,2
+TXN00144,2026-02-02,Expense,Food,480.48,Cash,Food expense,False,2026-02,2026,2
+TXN00145,2026-02-02,Expense,Education,1745.91,UPI,Education expense,False,2026-02,2026,2
+TXN00146,2026-02-03,Expense,Entertainment,229.25,Debit Card,Entertainment expense,False,2026-02,2026,2
+TXN00147,2026-02-04,Expense,Shopping,318.45,Cash,Shopping expense,False,2026-02,2026,2
+TXN00140,2026-02-05,Expense,Rent,8870.95,UPI,Monthly rent,False,2026-02,2026,2
+TXN00141,2026-02-05,Expense,Bills,2391.44,UPI,Monthly bills,False,2026-02,2026,2
+TXN00142,2026-02-05,Expense,Subscriptions,490.15,UPI,Monthly subscriptions,False,2026-02,2026,2
+TXN00148,2026-02-05,Expense,Shopping,743.04,Cash,Shopping expense,False,2026-02,2026,2
+TXN00149,2026-02-05,Expense,Shopping,987.82,Credit Card,Shopping expense,False,2026-02,2026,2
+TXN00150,2026-02-06,Expense,Transport,233.69,Debit Card,Transport expense,False,2026-02,2026,2
+TXN00151,2026-02-08,Expense,Entertainment,334.54,Debit Card,Entertainment expense,False,2026-02,2026,2
+TXN00152,2026-02-08,Expense,Food,434.76,UPI,Food expense,False,2026-02,2026,2
+TXN00153,2026-02-08,Expense,Healthcare,2498.03,UPI,Healthcare expense,False,2026-02,2026,2
+TXN00154,2026-02-09,Expense,Food,360.05,Cash,Food expense,False,2026-02,2026,2
+TXN00155,2026-02-09,Expense,Healthcare,2273.47,Cash,Healthcare expense,False,2026-02,2026,2
+TXN00156,2026-02-13,Expense,Shopping,354.24,UPI,Shopping expense,False,2026-02,2026,2
+TXN00157,2026-02-13,Expense,Education,387.82,Debit Card,Education expense,False,2026-02,2026,2
+TXN00158,2026-02-14,Expense,Shopping,1502.22,Cash,Shopping expense,False,2026-02,2026,2
+TXN00159,2026-02-15,Expense,Entertainment,187.2,Debit Card,Entertainment expense,False,2026-02,2026,2
+TXN00160,2026-02-15,Expense,Personal Care,500.48,UPI,Personal Care expense,False,2026-02,2026,2
+TXN00161,2026-02-16,Expense,Personal Care,449.06,Debit Card,Personal Care expense,False,2026-02,2026,2
+TXN00162,2026-02-19,Expense,Food,352.0,Cash,Food expense,False,2026-02,2026,2
+TXN00163,2026-02-22,Expense,Shopping,1770.31,UPI,Shopping expense,False,2026-02,2026,2
+TXN00164,2026-02-25,Expense,Food,169.25,Cash,Food expense,False,2026-02,2026,2
+TXN00165,2026-02-25,Expense,Healthcare,703.77,Debit Card,Healthcare expense,False,2026-02,2026,2
+TXN00166,2026-02-26,Expense,Personal Care,329.28,Cash,Personal Care expense,False,2026-02,2026,2
+TXN00167,2026-02-26,Expense,Shopping,7380.6,Cash,Shopping expense,True,2026-02,2026,2
+TXN00168,2026-02-27,Expense,Shopping,517.7,Credit Card,Shopping expense,False,2026-02,2026,2
+TXN00169,2026-02-28,Expense,Shopping,1167.03,UPI,Shopping expense,False,2026-02,2026,2
+TXN00170,2026-03-01,Income,Income,48684.48,Bank Transfer,Monthly income,,2026-03,2026,3
+TXN00174,2026-03-01,Expense,Food,261.61,Credit Card,Food expense,False,2026-03,2026,3
+TXN00175,2026-03-03,Expense,Shopping,757.06,UPI,Shopping expense,False,2026-03,2026,3
+TXN00176,2026-03-04,Expense,Food,353.85,Debit Card,Food expense,False,2026-03,2026,3
+TXN00171,2026-03-05,Expense,Rent,9544.63,UPI,Monthly rent,False,2026-03,2026,3
+TXN00172,2026-03-05,Expense,Bills,11995.05,UPI,Monthly bills,True,2026-03,2026,3
+TXN00173,2026-03-05,Expense,Subscriptions,174.22,UPI,Monthly subscriptions,False,2026-03,2026,3
+TXN00177,2026-03-05,Expense,Transport,93.53,Debit Card,Transport expense,False,2026-03,2026,3
+TXN00178,2026-03-06,Expense,Transport,57.21,Credit Card,Transport expense,False,2026-03,2026,3
+TXN00179,2026-03-07,Expense,Personal Care,212.8,Credit Card,Personal Care expense,False,2026-03,2026,3
+TXN00180,2026-03-08,Expense,Personal Care,451.0,UPI,Personal Care expense,False,2026-03,2026,3
+TXN00181,2026-03-09,Expense,Food,226.49,UPI,Food expense,False,2026-03,2026,3
+TXN00182,2026-03-10,Expense,Transport,136.28,UPI,Transport expense,False,2026-03,2026,3
+TXN00183,2026-03-11,Expense,Shopping,1069.11,Cash,Shopping expense,False,2026-03,2026,3
+TXN00184,2026-03-12,Expense,Entertainment,748.69,Cash,Entertainment expense,False,2026-03,2026,3
+TXN00185,2026-03-12,Expense,Food,301.45,Debit Card,Food expense,False,2026-03,2026,3
+TXN00186,2026-03-13,Expense,Shopping,771.68,UPI,Shopping expense,False,2026-03,2026,3
+TXN00187,2026-03-14,Expense,Shopping,473.79,Cash,Shopping expense,False,2026-03,2026,3
+TXN00188,2026-03-14,Expense,Education,1731.39,UPI,Education expense,False,2026-03,2026,3
+TXN00189,2026-03-16,Expense,Shopping,559.49,Credit Card,Shopping expense,False,2026-03,2026,3
+TXN00190,2026-03-17,Expense,Personal Care,107.34,Cash,Personal Care expense,False,2026-03,2026,3
+TXN00191,2026-03-18,Expense,Transport,124.45,Cash,Transport expense,False,2026-03,2026,3
+TXN00192,2026-03-18,Expense,Transport,80.72,Credit Card,Transport expense,False,2026-03,2026,3
+TXN00193,2026-03-20,Expense,Food,498.19,Cash,Food expense,False,2026-03,2026,3
+TXN00194,2026-03-20,Expense,Shopping,1458.16,Credit Card,Shopping expense,False,2026-03,2026,3
+TXN00195,2026-03-21,Expense,Transport,191.08,Debit Card,Transport expense,False,2026-03,2026,3
+TXN00196,2026-03-22,Expense,Transport,52.15,UPI,Transport expense,False,2026-03,2026,3
+TXN00197,2026-03-23,Expense,Entertainment,256.44,UPI,Entertainment expense,False,2026-03,2026,3
+TXN00198,2026-03-24,Expense,Entertainment,792.94,Cash,Entertainment expense,False,2026-03,2026,3
+TXN00199,2026-03-24,Expense,Transport,161.19,Credit Card,Transport expense,False,2026-03,2026,3
+TXN00200,2026-03-25,Expense,Shopping,512.39,Debit Card,Shopping expense,False,2026-03,2026,3
+TXN00201,2026-03-25,Expense,Transport,139.65,Cash,Transport expense,False,2026-03,2026,3
+TXN00202,2026-03-27,Expense,Food,287.73,Cash,Food expense,False,2026-03,2026,3
+TXN00203,2026-03-30,Expense,Entertainment,468.63,Debit Card,Entertainment expense,False,2026-03,2026,3
+TXN00204,2026-03-31,Expense,Shopping,426.17,UPI,Shopping expense,False,2026-03,2026,3
+TXN00205,2026-04-01,Income,Income,56226.28,Bank Transfer,Monthly income,,2026-04,2026,4
+TXN00209,2026-04-01,Expense,Shopping,1444.35,Debit Card,Shopping expense,False,2026-04,2026,4
+TXN00210,2026-04-01,Expense,Healthcare,1106.54,Debit Card,Healthcare expense,False,2026-04,2026,4
+TXN00211,2026-04-02,Expense,Food,235.38,UPI,Food expense,False,2026-04,2026,4
+TXN00212,2026-04-03,Expense,Shopping,1452.94,Cash,Shopping expense,False,2026-04,2026,4
+TXN00213,2026-04-04,Expense,Personal Care,554.78,Debit Card,Personal Care expense,False,2026-04,2026,4
+TXN00206,2026-04-05,Expense,Rent,10905.12,UPI,Monthly rent,False,2026-04,2026,4
+TXN00207,2026-04-05,Expense,Bills,1883.9,UPI,Monthly bills,False,2026-04,2026,4
+TXN00208,2026-04-05,Expense,Subscriptions,424.57,UPI,Monthly subscriptions,False,2026-04,2026,4
+TXN00214,2026-04-05,Expense,Food,236.24,UPI,Food expense,False,2026-04,2026,4
+TXN00215,2026-04-05,Expense,Personal Care,349.41,Credit Card,Personal Care expense,False,2026-04,2026,4
+TXN00216,2026-04-07,Expense,Shopping,1246.25,Debit Card,Shopping expense,False,2026-04,2026,4
+TXN00217,2026-04-07,Expense,Entertainment,265.38,UPI,Entertainment expense,False,2026-04,2026,4
+TXN00218,2026-04-08,Expense,Healthcare,2340.41,Cash,Healthcare expense,False,2026-04,2026,4
+TXN00219,2026-04-09,Expense,Shopping,761.3,UPI,Shopping expense,False,2026-04,2026,4
+TXN00220,2026-04-11,Expense,Entertainment,561.95,UPI,Entertainment expense,False,2026-04,2026,4
+TXN00221,2026-04-12,Expense,Personal Care,338.75,Cash,Personal Care expense,False,2026-04,2026,4
+TXN00222,2026-04-13,Expense,Shopping,1381.04,Credit Card,Shopping expense,False,2026-04,2026,4
+TXN00223,2026-04-13,Expense,Food,485.28,Debit Card,Food expense,False,2026-04,2026,4
+TXN00224,2026-04-14,Expense,Personal Care,157.05,Debit Card,Personal Care expense,False,2026-04,2026,4
+TXN00225,2026-04-14,Expense,Food,392.97,Debit Card,Food expense,False,2026-04,2026,4
+TXN00226,2026-04-15,Expense,Personal Care,427.05,Debit Card,Personal Care expense,False,2026-04,2026,4
+TXN00227,2026-04-16,Expense,Entertainment,337.35,Debit Card,Entertainment expense,False,2026-04,2026,4
+TXN00228,2026-04-16,Expense,Entertainment,626.94,Debit Card,Entertainment expense,False,2026-04,2026,4
+TXN00229,2026-04-17,Expense,Personal Care,161.93,Cash,Personal Care expense,False,2026-04,2026,4
+TXN00230,2026-04-17,Expense,Education,1621.48,Credit Card,Education expense,False,2026-04,2026,4
+TXN00231,2026-04-18,Expense,Entertainment,790.6,Cash,Entertainment expense,False,2026-04,2026,4
+TXN00232,2026-04-19,Expense,Personal Care,305.79,Debit Card,Personal Care expense,False,2026-04,2026,4
+TXN00233,2026-04-19,Expense,Entertainment,665.89,UPI,Entertainment expense,False,2026-04,2026,4
+TXN00234,2026-04-19,Expense,Healthcare,1522.02,Debit Card,Healthcare expense,False,2026-04,2026,4
+TXN00235,2026-04-20,Expense,Transport,234.94,Credit Card,Transport expense,False,2026-04,2026,4
+TXN00236,2026-04-20,Expense,Personal Care,511.29,Debit Card,Personal Care expense,False,2026-04,2026,4
+TXN00237,2026-04-20,Expense,Healthcare,1119.95,Credit Card,Healthcare expense,False,2026-04,2026,4
+TXN00238,2026-04-21,Expense,Healthcare,1785.67,Cash,Healthcare expense,False,2026-04,2026,4
+TXN00239,2026-04-22,Expense,Personal Care,486.86,Credit Card,Personal Care expense,False,2026-04,2026,4
+TXN00240,2026-04-23,Expense,Transport,210.17,UPI,Transport expense,False,2026-04,2026,4
+TXN00241,2026-04-23,Expense,Healthcare,815.98,Debit Card,Healthcare expense,False,2026-04,2026,4
+TXN00242,2026-04-24,Expense,Food,443.25,Cash,Food expense,False,2026-04,2026,4
+TXN00243,2026-04-24,Expense,Healthcare,1432.18,Cash,Healthcare expense,False,2026-04,2026,4
+TXN00244,2026-04-25,Expense,Transport,55.92,Cash,Transport expense,False,2026-04,2026,4
+TXN00245,2026-04-26,Expense,Food,368.65,UPI,Food expense,False,2026-04,2026,4
+TXN00246,2026-04-26,Expense,Transport,97.53,Credit Card,Transport expense,False,2026-04,2026,4
+TXN00247,2026-04-27,Expense,Personal Care,526.67,UPI,Personal Care expense,False,2026-04,2026,4
+TXN00248,2026-04-28,Expense,Entertainment,408.01,Credit Card,Entertainment expense,False,2026-04,2026,4
+TXN00249,2026-04-29,Expense,Personal Care,193.8,Cash,Personal Care expense,False,2026-04,2026,4
+TXN00250,2026-04-29,Expense,Entertainment,205.13,Credit Card,Entertainment expense,False,2026-04,2026,4
+TXN00251,2026-04-30,Expense,Entertainment,674.83,Cash,Entertainment expense,False,2026-04,2026,4
+TXN00252,2026-05-01,Income,Income,28042.86,Bank Transfer,Monthly income,,2026-05,2026,5
+TXN00256,2026-05-01,Expense,Transport,249.52,UPI,Transport expense,False,2026-05,2026,5
+TXN00257,2026-05-02,Expense,Food,256.95,Credit Card,Food expense,False,2026-05,2026,5
+TXN00258,2026-05-03,Expense,Transport,76.87,Cash,Transport expense,False,2026-05,2026,5
+TXN00253,2026-05-05,Expense,Rent,7074.53,UPI,Monthly rent,False,2026-05,2026,5
+TXN00254,2026-05-05,Expense,Bills,1493.5,UPI,Monthly bills,False,2026-05,2026,5
+TXN00255,2026-05-05,Expense,Subscriptions,168.41,UPI,Monthly subscriptions,False,2026-05,2026,5
+TXN00259,2026-05-06,Expense,Personal Care,271.65,Credit Card,Personal Care expense,False,2026-05,2026,5
+TXN00260,2026-05-07,Expense,Food,400.79,Cash,Food expense,False,2026-05,2026,5
+TXN00261,2026-05-07,Expense,Food,316.34,Credit Card,Food expense,False,2026-05,2026,5
+TXN00262,2026-05-08,Expense,Transport,97.02,Credit Card,Transport expense,False,2026-05,2026,5
+TXN00263,2026-05-08,Expense,Personal Care,262.67,Debit Card,Personal Care expense,False,2026-05,2026,5
+TXN00264,2026-05-09,Expense,Entertainment,632.51,Credit Card,Entertainment expense,False,2026-05,2026,5
+TXN00265,2026-05-10,Expense,Personal Care,249.69,Credit Card,Personal Care expense,False,2026-05,2026,5
+TXN00266,2026-05-11,Expense,Transport,81.09,Credit Card,Transport expense,False,2026-05,2026,5
+TXN00267,2026-05-12,Expense,Entertainment,514.97,Debit Card,Entertainment expense,False,2026-05,2026,5
+TXN00268,2026-05-13,Expense,Transport,137.68,Debit Card,Transport expense,False,2026-05,2026,5
+TXN00269,2026-05-14,Expense,Personal Care,437.3,Credit Card,Personal Care expense,False,2026-05,2026,5
+TXN00270,2026-05-14,Expense,Transport,212.93,Debit Card,Transport expense,False,2026-05,2026,5
+TXN00271,2026-05-15,Expense,Entertainment,270.37,UPI,Entertainment expense,False,2026-05,2026,5
+TXN00272,2026-05-17,Expense,Shopping,1069.1,Cash,Shopping expense,False,2026-05,2026,5
+TXN00273,2026-05-17,Expense,Shopping,949.46,Debit Card,Shopping expense,False,2026-05,2026,5
+TXN00274,2026-05-17,Expense,Healthcare,2411.5,UPI,Healthcare expense,False,2026-05,2026,5
+TXN00275,2026-05-18,Expense,Education,718.31,Cash,Education expense,False,2026-05,2026,5
+TXN00276,2026-05-20,Expense,Transport,112.51,Credit Card,Transport expense,False,2026-05,2026,5
+TXN00277,2026-05-20,Expense,Education,489.72,Cash,Education expense,False,2026-05,2026,5
+TXN00278,2026-05-21,Expense,Food,124.21,Credit Card,Food expense,False,2026-05,2026,5
+TXN00279,2026-05-22,Expense,Entertainment,346.35,Debit Card,Entertainment expense,False,2026-05,2026,5
+TXN00280,2026-05-23,Expense,Personal Care,100.83,Credit Card,Personal Care expense,False,2026-05,2026,5
+TXN00281,2026-05-23,Expense,Healthcare,2198.08,UPI,Healthcare expense,False,2026-05,2026,5
+TXN00282,2026-05-25,Expense,Transport,116.62,Credit Card,Transport expense,False,2026-05,2026,5
+TXN00283,2026-05-26,Expense,Entertainment,696.78,UPI,Entertainment expense,False,2026-05,2026,5
+TXN00284,2026-05-27,Expense,Personal Care,221.24,Credit Card,Personal Care expense,False,2026-05,2026,5
+TXN00285,2026-05-28,Expense,Entertainment,298.36,UPI,Entertainment expense,False,2026-05,2026,5
+TXN00286,2026-05-29,Expense,Shopping,372.85,Debit Card,Shopping expense,False,2026-05,2026,5
+TXN00287,2026-05-29,Expense,Entertainment,449.5,Credit Card,Entertainment expense,False,2026-05,2026,5
+TXN00288,2026-05-30,Expense,Education,534.95,Credit Card,Education expense,False,2026-05,2026,5
+TXN00289,2026-05-31,Expense,Transport,51.85,Debit Card,Transport expense,False,2026-05,2026,5
+TXN00290,2026-05-31,Expense,Entertainment,272.41,Credit Card,Entertainment expense,False,2026-05,2026,5
+TXN00291,2026-05-31,Expense,Education,488.07,Credit Card,Education expense,False,2026-05,2026,5
+TXN00292,2026-06-01,Income,Income,39767.26,Bank Transfer,Monthly income,,2026-06,2026,6
+TXN00296,2026-06-01,Expense,Shopping,1574.15,Credit Card,Shopping expense,False,2026-06,2026,6
+TXN00297,2026-06-01,Expense,Education,1750.73,Credit Card,Education expense,False,2026-06,2026,6
+TXN00298,2026-06-02,Expense,Transport,82.55,UPI,Transport expense,False,2026-06,2026,6
+TXN00299,2026-06-03,Expense,Entertainment,315.27,UPI,Entertainment expense,False,2026-06,2026,6
+TXN00300,2026-06-03,Expense,Food,467.52,Credit Card,Food expense,False,2026-06,2026,6
+TXN00301,2026-06-04,Expense,Transport,246.93,Credit Card,Transport expense,False,2026-06,2026,6
+TXN00293,2026-06-05,Expense,Rent,9341.05,UPI,Monthly rent,False,2026-06,2026,6
+TXN00294,2026-06-05,Expense,Bills,1210.79,UPI,Monthly bills,False,2026-06,2026,6
+TXN00295,2026-06-05,Expense,Subscriptions,384.61,UPI,Monthly subscriptions,False,2026-06,2026,6
+TXN00302,2026-06-05,Expense,Transport,113.68,UPI,Transport expense,False,2026-06,2026,6
+TXN00303,2026-06-05,Expense,Shopping,1498.82,Credit Card,Shopping expense,False,2026-06,2026,6
+TXN00304,2026-06-06,Expense,Shopping,921.04,Cash,Shopping expense,False,2026-06,2026,6
+TXN00305,2026-06-07,Expense,Healthcare,1062.25,Debit Card,Healthcare expense,False,2026-06,2026,6
+TXN00306,2026-06-09,Expense,Shopping,1362.14,Credit Card,Shopping expense,False,2026-06,2026,6
+TXN00307,2026-06-10,Expense,Shopping,1635.03,Credit Card,Shopping expense,False,2026-06,2026,6
+TXN00308,2026-06-12,Expense,Shopping,559.42,UPI,Shopping expense,False,2026-06,2026,6
+TXN00309,2026-06-13,Expense,Entertainment,152.6,UPI,Entertainment expense,False,2026-06,2026,6
+TXN00310,2026-06-13,Expense,Personal Care,108.29,UPI,Personal Care expense,False,2026-06,2026,6
+TXN00311,2026-06-14,Expense,Shopping,490.36,Cash,Shopping expense,False,2026-06,2026,6
+TXN00312,2026-06-15,Expense,Food,314.48,UPI,Food expense,False,2026-06,2026,6
+TXN00313,2026-06-15,Expense,Food,348.72,Cash,Food expense,False,2026-06,2026,6
+TXN00314,2026-06-17,Expense,Transport,182.72,UPI,Transport expense,False,2026-06,2026,6
+TXN00315,2026-06-19,Expense,Personal Care,536.94,Cash,Personal Care expense,False,2026-06,2026,6
+TXN00316,2026-06-20,Expense,Transport,160.71,Cash,Transport expense,False,2026-06,2026,6
+TXN00317,2026-06-21,Expense,Entertainment,621.75,UPI,Entertainment expense,False,2026-06,2026,6
+TXN00318,2026-06-22,Expense,Personal Care,591.71,Cash,Personal Care expense,False,2026-06,2026,6
+TXN00319,2026-06-23,Expense,Entertainment,158.11,Debit Card,Entertainment expense,False,2026-06,2026,6
+TXN00320,2026-06-24,Expense,Shopping,911.94,Cash,Shopping expense,False,2026-06,2026,6
+TXN00321,2026-06-24,Expense,Education,1812.42,Cash,Education expense,False,2026-06,2026,6
+TXN00322,2026-06-25,Expense,Shopping,1323.87,UPI,Shopping expense,False,2026-06,2026,6
+TXN00323,2026-06-26,Expense,Personal Care,189.22,UPI,Personal Care expense,False,2026-06,2026,6
+TXN00324,2026-06-26,Expense,Shopping,599.31,Credit Card,Shopping expense,False,2026-06,2026,6
+TXN00325,2026-06-27,Expense,Entertainment,287.9,Cash,Entertainment expense,False,2026-06,2026,6
+TXN00326,2026-06-27,Expense,Food,287.92,Cash,Food expense,False,2026-06,2026,6
+TXN00327,2026-06-28,Expense,Food,251.62,Debit Card,Food expense,False,2026-06,2026,6
+TXN00328,2026-06-28,Expense,Personal Care,358.51,UPI,Personal Care expense,False,2026-06,2026,6
+TXN00329,2026-06-29,Expense,Personal Care,491.48,UPI,Personal Care expense,False,2026-06,2026,6
+TXN00330,2026-07-01,Income,Income,26042.9,Bank Transfer,Monthly income,,2026-07,2026,7
+TXN00334,2026-07-01,Expense,Shopping,1415.4,Credit Card,Shopping expense,False,2026-07,2026,7
+TXN00335,2026-07-01,Expense,Healthcare,2454.29,UPI,Healthcare expense,False,2026-07,2026,7
+TXN00336,2026-07-02,Expense,Personal Care,459.66,Debit Card,Personal Care expense,False,2026-07,2026,7
+TXN00337,2026-07-03,Expense,Food,227.65,Credit Card,Food expense,False,2026-07,2026,7
+TXN00338,2026-07-04,Expense,Entertainment,415.94,UPI,Entertainment expense,False,2026-07,2026,7
+TXN00331,2026-07-05,Expense,Rent,11059.01,UPI,Monthly rent,False,2026-07,2026,7
+TXN00332,2026-07-05,Expense,Bills,2156.77,UPI,Monthly bills,False,2026-07,2026,7
+TXN00333,2026-07-05,Expense,Subscriptions,149.93,UPI,Monthly subscriptions,False,2026-07,2026,7
+TXN00339,2026-07-05,Expense,Entertainment,453.97,Debit Card,Entertainment expense,False,2026-07,2026,7
+TXN00340,2026-07-05,Expense,Entertainment,277.88,Cash,Entertainment expense,False,2026-07,2026,7
+TXN00341,2026-07-06,Expense,Entertainment,235.22,Cash,Entertainment expense,False,2026-07,2026,7
+TXN00342,2026-07-07,Expense,Personal Care,269.74,Debit Card,Personal Care expense,False,2026-07,2026,7
+TXN00343,2026-07-08,Expense,Personal Care,149.46,Credit Card,Personal Care expense,False,2026-07,2026,7
+TXN00344,2026-07-09,Expense,Entertainment,330.77,Credit Card,Entertainment expense,False,2026-07,2026,7
+TXN00345,2026-07-09,Expense,Personal Care,201.04,Debit Card,Personal Care expense,False,2026-07,2026,7
+TXN00346,2026-07-10,Expense,Shopping,1002.62,Cash,Shopping expense,False,2026-07,2026,7
+TXN00347,2026-07-12,Expense,Food,361.01,Debit Card,Food expense,False,2026-07,2026,7
+TXN00348,2026-07-12,Expense,Entertainment,472.08,Cash,Entertainment expense,False,2026-07,2026,7
+TXN00349,2026-07-12,Expense,Healthcare,855.36,Credit Card,Healthcare expense,False,2026-07,2026,7
+TXN00350,2026-07-13,Expense,Shopping,1447.21,UPI,Shopping expense,False,2026-07,2026,7
+TXN00351,2026-07-14,Expense,Entertainment,789.97,Debit Card,Entertainment expense,False,2026-07,2026,7
+TXN00352,2026-07-14,Expense,Transport,246.47,Credit Card,Transport expense,False,2026-07,2026,7
+TXN00353,2026-07-16,Expense,Transport,160.58,Debit Card,Transport expense,False,2026-07,2026,7
+TXN00354,2026-07-16,Expense,Healthcare,2160.75,Debit Card,Healthcare expense,False,2026-07,2026,7
+TXN00355,2026-07-17,Expense,Shopping,1113.55,Debit Card,Shopping expense,False,2026-07,2026,7
+TXN00356,2026-07-18,Expense,Personal Care,180.16,UPI,Personal Care expense,False,2026-07,2026,7
+TXN00357,2026-07-19,Expense,Personal Care,467.56,Cash,Personal Care expense,False,2026-07,2026,7
+TXN00358,2026-07-20,Expense,Food,261.94,Cash,Food expense,False,2026-07,2026,7
+TXN00359,2026-07-21,Expense,Entertainment,284.43,Credit Card,Entertainment expense,False,2026-07,2026,7
+TXN00360,2026-07-24,Expense,Personal Care,189.75,Cash,Personal Care expense,False,2026-07,2026,7
+TXN00361,2026-07-24,Expense,Entertainment,418.82,Credit Card,Entertainment expense,False,2026-07,2026,7
+TXN00362,2026-07-25,Expense,Entertainment,611.66,UPI,Entertainment expense,False,2026-07,2026,7
+TXN00363,2026-07-26,Expense,Food,235.73,Debit Card,Food expense,False,2026-07,2026,7
+TXN00364,2026-07-26,Expense,Transport,156.17,Credit Card,Transport expense,False,2026-07,2026,7
+TXN00365,2026-07-27,Expense,Transport,82.25,Debit Card,Transport expense,False,2026-07,2026,7
+TXN00366,2026-07-28,Expense,Personal Care,488.68,Debit Card,Personal Care expense,False,2026-07,2026,7
+TXN00367,2026-07-28,Expense,Entertainment,486.48,Debit Card,Entertainment expense,False,2026-07,2026,7
+TXN00368,2026-07-29,Expense,Entertainment,498.77,Debit Card,Entertainment expense,False,2026-07,2026,7
+TXN00369,2026-07-31,Expense,Shopping,1023.05,Credit Card,Shopping expense,False,2026-07,2026,7
+TXN00370,2026-07-31,Expense,Shopping,1729.81,Debit Card,Shopping expense,False,2026-07,2026,7
+TXN00371,2026-08-01,Income,Income,32652.33,Bank Transfer,Monthly income,,2026-08,2026,8
+TXN00375,2026-08-01,Expense,Healthcare,2317.07,Cash,Healthcare expense,False,2026-08,2026,8
+TXN00376,2026-08-02,Expense,Food,343.25,Cash,Food expense,False,2026-08,2026,8
+TXN00377,2026-08-03,Expense,Shopping,1097.83,UPI,Shopping expense,False,2026-08,2026,8
+TXN00378,2026-08-04,Expense,Personal Care,509.15,Cash,Personal Care expense,False,2026-08,2026,8
+TXN00379,2026-08-04,Expense,Transport,198.32,Cash,Transport expense,False,2026-08,2026,8
+TXN00372,2026-08-05,Expense,Rent,8880.92,UPI,Monthly rent,False,2026-08,2026,8
+TXN00373,2026-08-05,Expense,Bills,1153.12,UPI,Monthly bills,False,2026-08,2026,8
+TXN00374,2026-08-05,Expense,Subscriptions,226.59,UPI,Monthly subscriptions,False,2026-08,2026,8
+TXN00380,2026-08-06,Expense,Entertainment,182.57,Debit Card,Entertainment expense,False,2026-08,2026,8
+TXN00381,2026-08-07,Expense,Personal Care,411.35,Debit Card,Personal Care expense,False,2026-08,2026,8
+TXN00382,2026-08-08,Expense,Food,184.78,Cash,Food expense,False,2026-08,2026,8
+TXN00383,2026-08-09,Expense,Shopping,1258.52,Cash,Shopping expense,False,2026-08,2026,8
+TXN00384,2026-08-09,Expense,Healthcare,2485.41,Cash,Healthcare expense,False,2026-08,2026,8
+TXN00385,2026-08-10,Expense,Shopping,393.09,UPI,Shopping expense,False,2026-08,2026,8
+TXN00386,2026-08-12,Expense,Personal Care,296.46,Cash,Personal Care expense,False,2026-08,2026,8
+TXN00387,2026-08-13,Expense,Shopping,1389.27,UPI,Shopping expense,False,2026-08,2026,8
+TXN00388,2026-08-14,Expense,Food,339.88,Debit Card,Food expense,False,2026-08,2026,8
+TXN00389,2026-08-15,Expense,Transport,118.54,Credit Card,Transport expense,False,2026-08,2026,8
+TXN00390,2026-08-15,Expense,Food,170.89,UPI,Food expense,False,2026-08,2026,8
+TXN00391,2026-08-16,Expense,Personal Care,120.13,Debit Card,Personal Care expense,False,2026-08,2026,8
+TXN00392,2026-08-16,Expense,Entertainment,442.26,Credit Card,Entertainment expense,False,2026-08,2026,8
+TXN00393,2026-08-17,Expense,Entertainment,794.68,Debit Card,Entertainment expense,False,2026-08,2026,8
+TXN00394,2026-08-18,Expense,Transport,110.5,UPI,Transport expense,False,2026-08,2026,8
+TXN00395,2026-08-19,Expense,Shopping,1407.77,Credit Card,Shopping expense,False,2026-08,2026,8
+TXN00396,2026-08-20,Expense,Food,387.91,UPI,Food expense,False,2026-08,2026,8
+TXN00397,2026-08-21,Expense,Entertainment,422.55,Credit Card,Entertainment expense,False,2026-08,2026,8
+TXN00398,2026-08-21,Expense,Food,358.83,UPI,Food expense,False,2026-08,2026,8
+TXN00399,2026-08-22,Expense,Transport,138.01,Cash,Transport expense,False,2026-08,2026,8
+TXN00400,2026-08-24,Expense,Personal Care,431.45,Debit Card,Personal Care expense,False,2026-08,2026,8
+TXN00401,2026-08-24,Expense,Education,855.13,Cash,Education expense,False,2026-08,2026,8
+TXN00402,2026-08-26,Expense,Food,198.67,Credit Card,Food expense,False,2026-08,2026,8
+TXN00403,2026-08-26,Expense,Personal Care,433.92,Cash,Personal Care expense,False,2026-08,2026,8
+TXN00404,2026-08-27,Expense,Personal Care,169.33,Credit Card,Personal Care expense,False,2026-08,2026,8
+TXN00405,2026-08-28,Expense,Entertainment,741.71,Credit Card,Entertainment expense,False,2026-08,2026,8
+TXN00406,2026-08-29,Expense,Shopping,1352.09,Credit Card,Shopping expense,False,2026-08,2026,8
+TXN00407,2026-08-30,Expense,Shopping,3413.3,UPI,Shopping expense,True,2026-08,2026,8
+TXN00408,2026-08-31,Expense,Personal Care,588.06,UPI,Personal Care expense,False,2026-08,2026,8
+TXN00409,2026-09-01,Income,Income,42687.44,Bank Transfer,Monthly income,,2026-09,2026,9
+TXN00413,2026-09-01,Expense,Transport,172.05,Cash,Transport expense,False,2026-09,2026,9
+TXN00414,2026-09-01,Expense,Shopping,965.91,UPI,Shopping expense,False,2026-09,2026,9
+TXN00415,2026-09-02,Expense,Transport,114.44,Cash,Transport expense,False,2026-09,2026,9
+TXN00416,2026-09-02,Expense,Transport,158.91,UPI,Transport expense,False,2026-09,2026,9
+TXN00417,2026-09-03,Expense,Transport,116.82,UPI,Transport expense,False,2026-09,2026,9
+TXN00418,2026-09-04,Expense,Entertainment,750.52,Credit Card,Entertainment expense,False,2026-09,2026,9
+TXN00419,2026-09-04,Expense,Personal Care,521.66,Credit Card,Personal Care expense,False,2026-09,2026,9
+TXN00410,2026-09-05,Expense,Rent,9797.99,UPI,Monthly rent,False,2026-09,2026,9
+TXN00411,2026-09-05,Expense,Bills,839.49,UPI,Monthly bills,False,2026-09,2026,9
+TXN00412,2026-09-05,Expense,Subscriptions,300.03,UPI,Monthly subscriptions,False,2026-09,2026,9
+TXN00420,2026-09-05,Expense,Shopping,1447.0,UPI,Shopping expense,False,2026-09,2026,9
+TXN00421,2026-09-06,Expense,Transport,141.29,Debit Card,Transport expense,False,2026-09,2026,9
+TXN00422,2026-09-07,Expense,Shopping,733.98,Credit Card,Shopping expense,False,2026-09,2026,9
+TXN00423,2026-09-08,Expense,Food,263.99,Cash,Food expense,False,2026-09,2026,9
+TXN00424,2026-09-09,Expense,Shopping,1590.85,Cash,Shopping expense,False,2026-09,2026,9
+TXN00425,2026-09-09,Expense,Entertainment,259.0,UPI,Entertainment expense,False,2026-09,2026,9
+TXN00426,2026-09-09,Expense,Education,871.42,Cash,Education expense,False,2026-09,2026,9
+TXN00427,2026-09-10,Expense,Shopping,1558.76,Cash,Shopping expense,False,2026-09,2026,9
+TXN00428,2026-09-11,Expense,Food,146.28,UPI,Food expense,False,2026-09,2026,9
+TXN00429,2026-09-12,Expense,Transport,88.52,Debit Card,Transport expense,False,2026-09,2026,9
+TXN00430,2026-09-12,Expense,Personal Care,176.98,Debit Card,Personal Care expense,False,2026-09,2026,9
+TXN00431,2026-09-13,Expense,Entertainment,756.39,UPI,Entertainment expense,False,2026-09,2026,9
+TXN00432,2026-09-15,Expense,Entertainment,325.91,Debit Card,Entertainment expense,False,2026-09,2026,9
+TXN00433,2026-09-16,Expense,Entertainment,222.7,Debit Card,Entertainment expense,False,2026-09,2026,9
+TXN00434,2026-09-18,Expense,Personal Care,350.38,Credit Card,Personal Care expense,False,2026-09,2026,9
+TXN00435,2026-09-19,Expense,Entertainment,794.83,UPI,Entertainment expense,False,2026-09,2026,9
+TXN00436,2026-09-20,Expense,Personal Care,147.6,UPI,Personal Care expense,False,2026-09,2026,9
+TXN00437,2026-09-21,Expense,Entertainment,356.91,Debit Card,Entertainment expense,False,2026-09,2026,9
+TXN00438,2026-09-21,Expense,Personal Care,330.6,Debit Card,Personal Care expense,False,2026-09,2026,9
+TXN00439,2026-09-23,Expense,Food,414.99,UPI,Food expense,False,2026-09,2026,9
+TXN00440,2026-09-24,Expense,Transport,133.33,UPI,Transport expense,False,2026-09,2026,9
+TXN00441,2026-09-24,Expense,Shopping,782.32,UPI,Shopping expense,False,2026-09,2026,9
+TXN00442,2026-09-25,Expense,Transport,148.25,Credit Card,Transport expense,False,2026-09,2026,9
+TXN00443,2026-09-25,Expense,Personal Care,546.52,Credit Card,Personal Care expense,False,2026-09,2026,9
+TXN00444,2026-09-26,Expense,Shopping,444.14,Cash,Shopping expense,False,2026-09,2026,9
+TXN00445,2026-09-26,Expense,Personal Care,176.76,Credit Card,Personal Care expense,False,2026-09,2026,9
+TXN00446,2026-09-27,Expense,Healthcare,301.14,UPI,Healthcare expense,False,2026-09,2026,9
+TXN00447,2026-09-28,Expense,Entertainment,653.51,Debit Card,Entertainment expense,False,2026-09,2026,9
+TXN00448,2026-09-28,Expense,Healthcare,1734.97,Debit Card,Healthcare expense,False,2026-09,2026,9
+TXN00449,2026-09-29,Expense,Shopping,552.0,UPI,Shopping expense,False,2026-09,2026,9
+TXN00450,2026-09-29,Expense,Transport,79.37,Debit Card,Transport expense,False,2026-09,2026,9
+TXN00451,2026-09-30,Expense,Entertainment,500.31,Credit Card,Entertainment expense,False,2026-09,2026,9
+TXN00452,2026-09-30,Expense,Shopping,1528.8,Credit Card,Shopping expense,False,2026-09,2026,9
+TXN00453,2026-09-30,Expense,Education,970.62,Credit Card,Education expense,False,2026-09,2026,9

@@ -1,0 +1,3 @@
+Model,Transactions,Actual anomalies,Flagged,Precision,Recall,F1 Score,Accuracy
+Isolation Forest,500,10,17,0.059,0.1,0.074,0.95
+Category-based MAD,500,10,8,1.0,0.8,0.889,0.996

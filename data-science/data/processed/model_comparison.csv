@@ -1,0 +1,3 @@
+Model,Flagged,Precision,Recall,F1 Score,Accuracy
+Isolation Forest,9,0.556,0.833,0.667,0.989
+Category-based MAD,6,1.0,1.0,1.0,1.0
