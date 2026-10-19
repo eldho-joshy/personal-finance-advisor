@@ -8,7 +8,7 @@ learning techniques.
 
 ## Dashboard Preview
 
-![Personal Finance Advisor Dashboard](data-science/reports/figures/dashboard.png)
+![Personal Finance Advisor Dashboard](data-science/reports/figures/monthly_income_vs_expenses.png)
 
 ## Overview
 
