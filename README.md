@@ -93,6 +93,23 @@ The Streamlit dashboard provides:
 ### Model Validation
 ![Model Validation](data-science/reports/figures/model-validation.png)
 
+## Anomaly Detection
+
+The Personal Finance Advisor identifies potentially unusual expense transactions using statistical and machine-learning techniques.
+
+### Detection Methods
+
+- **Category-based Median Absolute Deviation (MAD):** Identifies unusual expenses relative to typical spending within a category.
+- **Isolation Forest:** Detects transactions that differ from common spending patterns.
+
+### Evaluation Metrics
+
+Model performance can be assessed using:
+
+- **Precision:** The proportion of flagged transactions that are actual anomalies.
+- **Recall:** The proportion of actual anomalies successfully detected.
+- **F1-score:** The harmonic mean of precision and recall.
+
 
 
 ## Project Structure
